@@ -1,0 +1,18 @@
+[
+  {
+    "datetime": 1794921985,
+    "type": "unofficial",
+    "version": "24.0",
+    "files": [
+      {
+        "filename": "lineage-24.0-20261117-2-UNOFFICIAL-yunluo.zip",
+        "sha256": "32c6d22774d35c487f1ef58305e1618e3dc8a62df3b8833bedb7ebae0eac53d9",
+        "size": 1072714523,
+        "url": "https://github.com/damnms/android_releases_yunluo/releases/download/yunluo-24.0-20261117-2/lineage-24.0-20261117-2-UNOFFICIAL-yunluo.zip",
+        "os_patch_level": "2026-11-01",
+        "os_sdk_level": 37,
+        "ota_property_files": "payload_metadata.bin:4556:106218,payload.bin:4556:1072706534,payload_properties.txt:1072711148:156,apex_info.pb:2108:1403,care_map.pb:3558:951,metadata:69:681,metadata.pb:818:1242"
+      }
+    ]
+  }
+]
